@@ -1,14 +1,5 @@
-.architect
-bootstrap.css
-bootstrap.js
-bootstrap.json
-bootstrap.jsonp
-build/
-classic.json
-classic.jsonp
-ext/
-modern.json
-modern.jsonp
-resources/sass/.sass-cache/
-resources/.arch-internal-preview.css
-.arch-internal-preview.css
+```mermaid
+graph LR
+    A[开始] --> B{决策点}
+    B -->|选项1| C[结果1]
+    B -->|选项2| D[结果2]
